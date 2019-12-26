@@ -1,0 +1,36 @@
+# General
+.svn/
+.git/
+log/
+temp/
+.log
+.temp
+.backup
+.bak
+.DS_Store
+
+# Python
+.env2
+
+# NodeJS
+dist/
+node_modules/
+package-lock.json
+yarn.lock
+yarn-error.log
+npm-debug.log*
+
+# Java
+target/
+.project
+
+# IDEA
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# umi
+.umi
+.umi-production
